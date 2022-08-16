@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\MyfirstConsoleApp\MyfirstConsoleApp\bin\Debug\MyfirstConsoleApp.exe.config
+C:\Users\HP\source\repos\MyfirstConsoleApp\MyfirstConsoleApp\bin\Debug\MyfirstConsoleApp.exe
+C:\Users\HP\source\repos\MyfirstConsoleApp\MyfirstConsoleApp\bin\Debug\MyfirstConsoleApp.pdb
+C:\Users\HP\source\repos\MyfirstConsoleApp\MyfirstConsoleApp\obj\Debug\MyfirstConsoleApp.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\MyfirstConsoleApp\MyfirstConsoleApp\obj\Debug\MyfirstConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\MyfirstConsoleApp\MyfirstConsoleApp\obj\Debug\MyfirstConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\MyfirstConsoleApp\MyfirstConsoleApp\obj\Debug\MyfirstConsoleApp.exe
+C:\Users\HP\source\repos\MyfirstConsoleApp\MyfirstConsoleApp\obj\Debug\MyfirstConsoleApp.pdb
